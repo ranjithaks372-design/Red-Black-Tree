@@ -1,6 +1,6 @@
 # Red-Black-Tree
 
-A menu-driven implementation of a Red-Black Tree using C. The project demonstrates insertion, deletion, searching, finding minimum and maximum elements, tree rotations, and balancing operations.
+Implementation of a Red-Black Tree in C with insertion, deletion, search, and traversal operations.
 
 ## Features
 
